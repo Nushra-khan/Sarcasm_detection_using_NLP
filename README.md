@@ -8,12 +8,7 @@ A machine learning project that detects sarcasm in text using Natural Language P
 - Evaluation metrics for performance analysis.
 - Predict sarcasm for custom user input.
 
-## 📂 Project Structure
-sarcasm-detection/
-│── sarcasm-detection.ipynb # Main Jupyter Notebook with code
-│── dataset/ # Dataset used for training
-│── README.md # Project documentation
-│── requirements.txt # Dependencies list
+
 
 
 ## 📊 Dataset
