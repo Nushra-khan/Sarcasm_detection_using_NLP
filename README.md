@@ -12,7 +12,7 @@ A machine learning project that detects sarcasm in text using Natural Language P
 
 
 ## 📊 Dataset
-- Source: [News Headlines Dataset for Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection) *(or specify your dataset source)*.
+- Source: [News Headlines Dataset for Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection).
 - Contains headlines labeled as sarcastic (1) or non-sarcastic (0).
 
 🛠 Technologies Used
