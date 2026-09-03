@@ -20,7 +20,8 @@ Python
 
 TensorFlow / Keras
 
-Pandas, NumPy
+Pandas
+NumPy
 
 Matplotlib, Seaborn
 
