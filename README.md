@@ -1,7 +1,7 @@
 # Sarcasm_detection_using_NLP
 A machine learning project that detects sarcasm in text using Natural Language Processing (NLP) techniques. This project processes text data, trains a model, and predicts whether a given sentence is sarcastic or not.
-
-## 📌 Features
+.
+.## 📌 Features
 - Preprocessing of text data (tokenization, cleaning, stopword removal).
 - Word embeddings for semantic understanding.
 - Model training using deep learning (LSTM/GRU/other architecture).
