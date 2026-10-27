@@ -7,7 +7,6 @@ A machine learning project that detects sarcasm in text using Natural Language P
 - Model training using deep learning (LSTM/GRU/other architecture).
 - Evaluation metrics for performance analysis.
 - Predict sarcasm for custom user input.
-...
 
 
 
